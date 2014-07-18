@@ -1,5 +1,5 @@
 should = require('chai').should()
-type = require('../');
+type = require('../')
 
 describe 'type', ->
   types  = {
@@ -12,6 +12,10 @@ describe 'type', ->
     date: new Date()
     obj: {}
   }
+  
+  describe 'type', ->
+    it 'should be an function', ->
+    type.should.be.a 'function'
 
   describe 'type()', ->
     it 'should return a object', ->
