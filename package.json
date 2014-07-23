@@ -1,6 +1,6 @@
 {
-  "name": "isn.typeis",
-  "version": "0.0.1",
+  "name": "type.is",
+  "version": "0.1.0",
   "description": "Detect the type of a variable.",
   "main": "index.js",
   "repository": {
@@ -10,7 +10,8 @@
   "keywords": [
     "typeof",
     "typeis",
-    "type"
+    "type",
+    "type.is"
   ],
   "author": "iissnan",
   "license": "MIT",
