@@ -1,11 +1,11 @@
 {
   "name": "type.is",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Detect the type of a variable.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/iissnan/isn.typeis.git"
+    "url": "http://github.com/iissnan/type.is"
   },
   "keywords": [
     "typeof",
@@ -16,9 +16,9 @@
   "author": "iissnan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iissnan/isn.typeis/issues"
+    "url": "https://github.com/iissnan/type.is/issues"
   },
-  "homepage": "https://github.com/iissnan/isn.typeis",
+  "homepage": "https://github.com/iissnan/type.is",
   "devDependencies": {
     "chai": "^1.9.1",
     "coffee-script": "^1.7.1",
