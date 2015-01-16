@@ -8,13 +8,16 @@ npm install type.is --save
 
 ### Usage
 
-```
+```javascript
 var type = require('type.is')
 
 var fn = function() {};
 type(fn).is.func && fn.call(this);
+```
 
-// Write hummable test code with chaijs
+Write hummable test code with chaijs
+
+```coffee-script
 describe 'is.string', ->
 
   it 'should be true if given a string argument', ->
