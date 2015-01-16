@@ -1,6 +1,6 @@
 {
   "name": "type.is",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Detect the type of a variable.",
   "main": "index.js",
   "repository": {
